@@ -1,4 +1,4 @@
-# AngularElectronQuickStart
+# (Angular + Electron) Quick Start for Desktop Apps
 
 Angular apps for desktop quick start powered by Electron.
 
